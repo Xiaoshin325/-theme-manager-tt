@@ -1,0 +1,7 @@
+{
+  "display_name": "美化管理器（TT 试用版）",
+  "version": "0.1.0",
+  "author": "ChatGPT",
+  "js": "index.js",
+  "description": "TT 主题管理器试用版：读取酒馆主题库存，点击卡片切换；独立 UI 外观设置。"
+}
